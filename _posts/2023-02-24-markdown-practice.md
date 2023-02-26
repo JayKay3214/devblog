@@ -4,6 +4,11 @@ title:  "Markdown Practice"
 date:   2023-02-24 20:02:13 -0700
 categories: development
 ---
+#### notes
+
+- do command k and then v to bring out the side panel
+
+- change the dates to differentiate the order of each link/post
 
 ## Heading2
 
