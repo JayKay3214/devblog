@@ -18,3 +18,7 @@ There are multiple methods to complete this game but one of the most efficient m
 ## The Mental Advantages
 
 - 
+
+## Citations
+
+- 
