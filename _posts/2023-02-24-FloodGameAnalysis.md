@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Flood Puzzle is a wierd way to improve processing skill within people... woo"
+title:  "The Flood Puzzle is a wierd way to improve processing skill within people."
 date:   2023-02-24 20:02:13 -0700
 categories: development
 ---
@@ -17,7 +17,7 @@ There are multiple methods to complete this game but one of the most efficient m
 
 ## The Mental Advantages
 
-- 
+- The Flood Game can be a greate tool to helping you
 
 ## Citations
 
