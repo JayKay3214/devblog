@@ -50,9 +50,11 @@ For part of our training we went over how to plan an `Information Architecture` 
 We practiced making an IA using other apps to reference.
 
 - Spotify
+
 ![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680310705/Screen_Shot_2023-03-31_at_6.57.20_PM_abh0k6.png)
 
 - KaoKao Talk
+
 ![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680310695/Screen_Shot_2023-03-31_at_6.57.08_PM_pfsxii.png)
 
 #### Putting Together An Idea Of What The User Interface Is Going To Look Like.
@@ -65,16 +67,19 @@ When making the `User Interface` we tried making a basic format for what the gam
 
 The criteria for our Tutorial was that we needed to explain how to play the game in the most effective number of steps for the players enjoyment and patience. This led to another planning sessions where we brought up different ideas on what we would explain and how long of an explanation we would need.
 
-![image]()
+![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680310884/Screen_Shot_2023-03-31_at_7.00.19_PM_xes8u2.png)
+![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680310902/Screen_Shot_2023-03-31_at_7.00.37_PM_tycr5g.png)
+![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680310911/Screen_Shot_2023-03-31_at_7.00.45_PM_n3w305.png)
+![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680311105/Screen_Shot_2023-03-31_at_7.04.00_PM_kdsapy.png)
 
 #### Going Over The App Icon
 
 When making the game we tried our hands at making an `app icon` that we could use when labeling our game.
 
-![image]()
+![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680311144/Screen_Shot_2023-03-31_at_7.04.39_PM_y6mhnp.png)
 
 #### The Final UI
 
 The game has finally come together.
 
-![image]()
+![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680311169/Screen_Shot_2023-03-31_at_7.05.04_PM_n5h570.png)

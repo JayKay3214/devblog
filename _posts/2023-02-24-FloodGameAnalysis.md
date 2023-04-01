@@ -5,7 +5,7 @@ date:   2023-02-24 20:02:13 -0700
 categories: development
 ---
 
-## Summary: What is the Flood Puzzle
+## What is the Flood Puzzle
 
 The `Flood Puzzle Game` is simplistic game that utilizes a randomly generated grid of colors with the goal of converting the whole board to a single color at the end of the game. This computative game requires players to process and find the most number of colors that they can envelope in each of their limited number of moves.
 

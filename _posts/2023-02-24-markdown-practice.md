@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Markdown Practice"
-date:   2023-02-24 20:02:13 -0700
+title:  "Figuring Out How To Operate Visual Studio Code"
+date:   2030-02-24 20:02:13 -0700
 categories: development
 ---
 #### notes
