@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "App/Game Developement Research"
-date:   2029-03-24 20:02:13 -0700
+date:   2023-02-12 20:02:13 -0700
 categories: development
 ---
 
-# Planning The Game
+## Planning The Game
 
 As a team we started with a couple different steps when we planned out how to start making the website.
 
-#### Familiarization With Using [Figma](https://www.figma.com/files/recent?fuid=1213707683867090178)
+### Familiarization With Using [Figma](https://www.figma.com/files/recent?fuid=1213707683867090178)
 
 We spent some time to familiarize ourselves with the tools that we were using and what we could do with them and their specific functions.
 
@@ -57,7 +57,7 @@ We practiced making an IA using other apps to reference.
 
 ![image](https://res.cloudinary.com/dgwjrp9pb/image/upload/v1680310695/Screen_Shot_2023-03-31_at_6.57.08_PM_pfsxii.png)
 
-#### Putting Together An Idea Of What The User Interface Is Going To Look Like.
+#### Putting Together An Idea Of What The User Interface Is Going To Look Like
 
 When making the `User Interface` we tried making a basic format for what the game would look like and where all the aspects that we decided on when making our rules. These are things such as **undo buttons, a bar that states how many turns the player has, the settings button, and etc**.
 

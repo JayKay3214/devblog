@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Figuring Out How To Operate Visual Studio Code"
-date:   2030-02-24 20:02:13 -0700
+date:   2023-02-10 20:02:13 -0700
 categories: development
 ---
 #### notes
@@ -82,7 +82,6 @@ struct PositionObservingView<Content: View>: View {
 ```python
 message("hi")
 ```
-
 
 ## Highlight Quotes
 
