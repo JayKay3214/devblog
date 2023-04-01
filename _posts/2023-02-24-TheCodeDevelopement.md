@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code Development"
-date:   2023-02-13 20:02:13 -0700
+date:   2023-02-7 20:02:13 -0700
 categories: development
 ---
 

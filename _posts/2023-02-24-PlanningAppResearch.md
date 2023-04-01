@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "App/Game Developement Research"
-date:   2023-02-12 20:02:13 -0700
+date:   2023-02-8 20:02:13 -0700
 categories: development
 ---
 
