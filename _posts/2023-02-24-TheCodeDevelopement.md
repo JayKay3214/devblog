@@ -9,7 +9,11 @@ categories: development
 
 #### How To Start
 
+We started by creating an application on [Android Studio](https://developer.android.com/studio) to work on and test out a couple of things.
+
 #### Making A Screen
+
+We 
 
 #### Screen Formating
 
